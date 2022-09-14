@@ -142,4 +142,6 @@ setInterval(() => {
 }, 1000);
 
 
- 
+const blogButton = () => {
+  window.location.href="blog.html"
+}
