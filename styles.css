@@ -19,6 +19,7 @@ body {
 #question {
   height: 100px;
   display: flex;
+  padding: 0% 1rem;
   align-items: center;
   justify-content: center;
   color: white;
@@ -39,7 +40,8 @@ body {
   display: flex;
   flex-wrap: wrap;
   align-items: center;
-  padding-left: 5rem;
+  padding-left: 2rem;
+  padding-right: 1rem;
   color: white;
   font-size: 32px;
   background-color: #171717;
