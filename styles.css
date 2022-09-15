@@ -25,7 +25,7 @@ body {
  
 
 #question {
-  height: 100px;
+  min-height: 100px;
   display: flex;
   padding: 0% 1rem;
   align-items: center;
@@ -199,6 +199,18 @@ button {
   .card {
     flex-direction: column;
     width: 100%;
+  }
+  .header-btn{
+    width: 100%;
+    display: block;
+    margin-left: 40px;
+     
+  }
+  #home-btn{
+    margin-bottom: 8px;
+  }
+  #question{
+    padding: 10px;
   }
 }
 @media only screen and (min-width: 701px) and (max-width: 991px) {
