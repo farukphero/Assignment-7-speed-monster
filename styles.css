@@ -16,14 +16,11 @@ body {
   margin: 0 auto;
 }
 .header-btn{
-  /* width: 80%; */
-  /* margin: 15px auto; */
   margin-top: 20px;
   display: flex;
   justify-content:space-around;
 }
  
-
 #question {
   min-height: 100px;
   display: flex;
@@ -217,6 +214,5 @@ button {
   .card {
     flex-direction: flex;
     width: 45%;
-    /* margin: 0% , 10px; */
   }
 }

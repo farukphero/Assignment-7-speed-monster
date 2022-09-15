@@ -142,7 +142,7 @@ setInterval(() => {
   document.getElementById("show-time").innerHTML = `${startTime ? timeSpent : 0} seconds`;
 }, 1000);
 
-
+// blog button 
 const blogButton = () => {
-  window.location.href="blog.html"
-}
+  window.location.href = "blog.html"
+};
